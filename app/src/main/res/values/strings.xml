@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Expence Tracker</string>
+    <string name="navigaion_drawer_open">Open navifation drawer</string>
+    <string name="navication_drawer_close">close navigation drawer</string>
+</resources>
